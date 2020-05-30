@@ -1,0 +1,3 @@
+grep --color=always Jakub test.txt |less
+ESC[01;31mJAKUBESC[00mdef
+(END)
